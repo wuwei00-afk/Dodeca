@@ -104,6 +104,8 @@ httplib2==0.20.4
 pip==24.0
 pyparsing==3.1.1
 wheel==0.42.0
+Flask==3.0.0
+Flask-CORS==4.0.0
 torch
 torchvision
 torchaudio
@@ -117,3 +119,10 @@ sentence-transformers
 PyPDF2
 ebooklib
 scikit-learn
+gwpy
+ligo-gracedb
+python-ligo-lw
+lalsuite
+pycbc
+gstlal
+bilby
